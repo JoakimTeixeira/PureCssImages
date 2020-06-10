@@ -10,3 +10,6 @@ Images created with pure CSS.
 - Added responsiveness
 - Implemented animations with CSS animations
 
+## Additional Information
+
+Project hosted on [Code Pen](https://codepen.io/collection/DOOPGM)
