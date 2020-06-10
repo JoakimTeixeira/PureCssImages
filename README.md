@@ -13,4 +13,4 @@ Images created with pure CSS.
 
 ## Additional Information
 
-Project hosted on [Code Pen](https://codepen.io/collection/DOOPGM)
+Project hosted on [Code Pen](https://codepen.io/collection/DOOPGM).
