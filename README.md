@@ -6,7 +6,8 @@ Images created with pure CSS.
 
 ## What I've Leaned
 
-- Developed images with Pug and SASS
+- Developed images with CSS
+- Structured with Pug and SASS preprocessors
 - Added responsiveness
 - Implemented animations with CSS animations
 
